@@ -1,0 +1,5 @@
+Command:
+curl -sS http://localhost:3000/books
+
+Output:
+[{"isbn":"9780141439518","title":"Pride and Prejudice","author":"Jane Austen","reviews":{"reader1":"A witty and enduring classic."}},{"isbn":"9780451524935","title":"1984","author":"George Orwell","reviews":{}},{"isbn":"9780061120084","title":"To Kill a Mockingbird","author":"Harper Lee","reviews":{}},{"isbn":"9780743273565","title":"The Great Gatsby","author":"F. Scott Fitzgerald","reviews":{}},{"isbn":"9780261103573","title":"The Hobbit","author":"J.R.R. Tolkien","reviews":{}}]
