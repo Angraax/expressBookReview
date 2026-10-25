@@ -1,0 +1,5 @@
+Command:
+curl -sS http://localhost:3000/books/9780141439518/review
+
+Output:
+{"reader1":"A witty and enduring classic."}
