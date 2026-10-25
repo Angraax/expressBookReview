@@ -1,0 +1,15 @@
+Command:
+curl -sS https://api.github.com/repos/Angraax/expressBookReview
+
+Relevant output:
+{
+  "full_name": "Angraax/expressBookReview",
+  "fork": false,
+  "parent": null,
+  "source": null,
+  "html_url": "https://github.com/Angraax/expressBookReview"
+}
+
+Result:
+This repository was created independently and is not shown by GitHub as a fork
+of ibm-developer-skills-network/expressBookReview.
