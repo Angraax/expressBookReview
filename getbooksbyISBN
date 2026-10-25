@@ -1,0 +1,5 @@
+Command:
+curl -sS http://localhost:3000/books/isbn/9780141439518
+
+Output:
+{"isbn":"9780141439518","title":"Pride and Prejudice","author":"Jane Austen","reviews":{"reader1":"A witty and enduring classic."}}
